@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: chessmate86.github.io
+Token: b2ba87ba3ac201dae34de9df26605c73386db7b674c987f77aa441980bd87095
